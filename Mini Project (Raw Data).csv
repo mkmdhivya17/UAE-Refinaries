@@ -1,0 +1,501 @@
+Refinery_ID,Refinery_Name,Emirate,Operator,Capacity_BPD,Commissioned_Year,No_of_Employees,Crude_Source,Annual_Throughput_Million_Tons,Environmental_Rating,Petrol_Output_BPD,Diesel_Output_BPD,Gas_Output_BPD,Employee_Category,Average_Salary_AED
+R001,Umm Al Quwain Refining Co.,Fujairah,Ajman Petro,762632,2009,2456,Offshore,23.97,7.8,332328,293866,136436,Administration,23487
+R002,Ruwais Refinery,Abu Dhabi,Fujairah Energy,729852,2000,1992,Onshore,24.66,6.53,340905,291854,97092,Administration,14971
+R003,Fujairah Refinery,Abu Dhabi,Sharjah Refining Ltd.,769411,2005,1712,Offshore,14.99,6.18,325999,330649,112761,Engineering,10954
+R004,Sharjah Petrochem,Umm Al Quwain,Fujairah Energy,893222,1991,810,Onshore,24.48,7.68,411717,306461,175043,Engineering,14055
+R005,Umm Al Quwain Refining Co.,Ras Al Khaimah,Sharjah Refining Ltd.,567323,1999,764,Onshore,8.44,6.42,237993,247493,81836,Engineering,8458
+R006,Emirates Fuel Processing,Ras Al Khaimah,Sharjah Refining Ltd.,732249,2001,825,Mixed,19.12,8.46,296517,281412,154319,Maintenance,18262
+R007,Ruwais Refinery,Fujairah,Sharjah Refining Ltd.,720812,2011,770,Mixed,32.31,5.98,237996,364723,118091,Maintenance,20511
+R008,Ajman Refinery,Ras Al Khaimah,Sharjah Refining Ltd.,727271,2018,1790,Imported,3.68,5.05,272646,340564,114060,Engineering,9175
+R009,Ruwais Refinery,Ajman,Gulf Energy,476102,2013,1527,Offshore,7.23,7.23,190924,182754,102422,Operations,15886
+R010,Jebel Ali Refinery,Fujairah,Ajman Petro,294966,2002,1353,Offshore,26.72,7.59,106497,106798,81669,Engineering,10582
+R011,Dubai Energy Refinery,Abu Dhabi,Fujairah Energy,128263,1994,750,Offshore,1.65,8.66,48859,52204,27198,Engineering,14185
+R012,Al Ain Petro,Ras Al Khaimah,UAE National Oil Co.,548928,1988,1136,Onshore,34.23,5.29,201163,230274,117489,Quality Control,19606
+R013,Jebel Ali Refinery,Ras Al Khaimah,Fujairah Energy,809530,2010,1529,Mixed,20.29,9.45,389181,296448,123900,Maintenance,24526
+R014,Dubai Energy Refinery,Fujairah,Emirates Petrochem,512708,2002,1418,Imported,13.03,7.25,175622,229526,107559,Maintenance,24282
+R015,Al Ain Petro,Sharjah,ADNOC Refining,859727,2012,1194,Onshore,11.7,6.82,310098,444896,104732,Maintenance,20539
+R016,ADNOC Refining Plant,Ajman,Emirates Petrochem,770688,1992,1296,Imported,22.96,6.95,300899,338333,131455,Engineering,19805
+R017,ADNOC Refining Plant,Fujairah,RAK Oil,318450,2012,2217,Onshore,7.11,6.79,84369,156599,77480,Operations,12422
+R018,Ajman Refinery,Dubai,Sharjah Refining Ltd.,884850,1977,1745,Offshore,17.64,8.2,295073,443729,146046,Engineering,12220
+R019,ADNOC Refining Plant,Abu Dhabi,ADNOC Refining,658649,2017,1820,Offshore,20.43,7.06,254792,312010,91846,Administration,22740
+R020,Ajman Refinery,Fujairah,ENOC,232496,1999,468,Imported,4.04,8.74,88355,92696,51443,Administration,19358
+R021,Ruwais Refinery,Fujairah,ADNOC Refining,586328,1977,2340,Mixed,2.69,8.99,244650,236155,105522,Administration,16480
+R022,Dubai Energy Refinery,Sharjah,Sharjah Refining Ltd.,307776,2012,570,Mixed,4.75,7.31,105691,125263,76821,Administration,24969
+R023,Al Ain Petro,Ajman,UAE National Oil Co.,525660,2013,1030,Mixed,23.69,8.69,155782,290322,79555,Engineering,15824
+R024,Ajman Refinery,Dubai,Gulf Energy,229764,1982,1701,Imported,19.22,7.44,92785,100743,36234,Engineering,19583
+R025,Al Ain Petro,Sharjah,ENOC,205271,1990,785,Mixed,17.07,7.17,97716,76195,31358,Maintenance,11277
+R026,ADNOC Refining Plant,Fujairah,Fujairah Energy,190673,2009,2425,Imported,18.41,9.84,57712,92790,40170,Operations,9176
+R027,ADNOC Refining Plant,Dubai,ENOC,87957,1988,1891,Offshore,31.61,8,41479,35510,10966,Administration,12087
+R028,Fujairah Refinery,Ajman,ENOC,156030,2004,2118,Onshore,13.79,8.11,70554,65132,20342,Quality Control,17768
+R029,Sharjah Petrochem,Abu Dhabi,Ajman Petro,659899,2002,1655,Onshore,25.85,8.19,216283,280828,162787,Administration,18308
+R030,Ruwais Refinery,Ajman,UAQ Petroleum,247214,2016,2265,Imported,8.98,8.53,98643,117726,30844,Maintenance,19682
+R031,Emirates Fuel Processing,Dubai,RAK Oil,701306,2022,594,Onshore,13.23,7.17,210544,333268,157493,Maintenance,18831
+R032,Fujairah Refinery,Fujairah,Gulf Energy,329896,2010,672,Offshore,17.09,9.81,106730,157924,65241,Engineering,19750
+R033,Fujairah Refinery,Abu Dhabi,UAE National Oil Co.,463488,2013,775,Mixed,20.64,7,171620,211908,79958,Maintenance,11839
+R034,Dubai Energy Refinery,Fujairah,Emirates Petrochem,346549,1987,1957,Mixed,11.08,7.92,110872,151631,84045,Quality Control,15231
+R035,Jebel Ali Refinery,Dubai,ADNOC Refining,107865,1982,1626,Onshore,25.78,5.04,44071,47959,15833,Quality Control,9997
+R036,Al Ain Petro,Fujairah,Gulf Energy,675222,2009,2478,Onshore,24.43,7.85,222402,291319,161499,Quality Control,14834
+R037,Emirates Fuel Processing,Ras Al Khaimah,UAE National Oil Co.,169176,1986,533,Imported,34.68,7.92,65909,78309,24956,Quality Control,9526
+R038,Emirates Fuel Processing,Fujairah,ENOC,244461,2004,2224,Imported,2.38,7.09,102774,105908,35777,Quality Control,11052
+R039,Dubai Energy Refinery,Dubai,Ajman Petro,384567,2006,2206,Imported,22.8,8,105605,197277,81684,Quality Control,16890
+R040,Ruwais Refinery,Umm Al Quwain,Sharjah Refining Ltd.,255359,1996,2069,Onshore,34.71,9.54,91726,101709,61923,Administration,16299
+R041,Ajman Refinery,Fujairah,Sharjah Refining Ltd.,310667,1998,466,Imported,27.57,8.71,108386,136199,66081,Engineering,10210
+R042,Jebel Ali Refinery,Dubai,Fujairah Energy,331582,2005,2248,Mixed,11.86,7.39,133775,137225,60581,Maintenance,20429
+R043,ADNOC Refining Plant,Umm Al Quwain,UAQ Petroleum,668796,2005,1704,Imported,14.69,9.16,315789,273002,80004,Administration,19582
+R044,ADNOC Refining Plant,Dubai,Gulf Energy,259470,2004,1366,Imported,30.81,7.19,82853,117716,58900,Engineering,12234
+R045,Emirates Fuel Processing,Umm Al Quwain,Sharjah Refining Ltd.,169135,1977,1321,Mixed,12.76,6.69,79993,57502,31639,Administration,21892
+R046,ADNOC Refining Plant,Ras Al Khaimah,Fujairah Energy,155393,2007,1794,Onshore,32.2,5.73,56032,80606,18754,Engineering,14328
+R047,ADNOC Refining Plant,Fujairah,RAK Oil,889429,1988,527,Mixed,22.77,6.09,384447,307119,197862,Engineering,24413
+R048,Ajman Refinery,Umm Al Quwain,Sharjah Refining Ltd.,638382,2014,1414,Mixed,22.74,5.89,233971,321889,82521,Maintenance,21871
+R049,Dubai Energy Refinery,Sharjah,UAQ Petroleum,61178,2002,737,Onshore,14.71,8.5,18286,29478,13412,Quality Control,16346
+R050,Umm Al Quwain Refining Co.,Sharjah,UAE National Oil Co.,821917,1989,2388,Offshore,15.92,6.34,247191,384916,189808,Engineering,21704
+R051,ADNOC Refining Plant,Abu Dhabi,Sharjah Refining Ltd.,416859,2022,1145,Imported,14.04,5.47,145457,183522,87879,Operations,11788
+R052,Sharjah Petrochem,Ajman,ADNOC Refining,189280,1976,616,Mixed,1.53,7.67,67016,79599,42663,Engineering,21894
+R053,Ajman Refinery,Dubai,Emirates Petrochem,355426,1976,1474,Imported,7.22,9.59,126254,150531,78639,Quality Control,16903
+R054,Umm Al Quwain Refining Co.,Ras Al Khaimah,Fujairah Energy,535485,1995,1555,Onshore,15.23,6.44,189470,240150,105864,Maintenance,24110
+R055,ADNOC Refining Plant,Dubai,RAK Oil,452559,2019,1970,Imported,33.85,8.12,182857,188067,81633,Quality Control,24192
+R056,ADNOC Refining Plant,Dubai,Ajman Petro,248346,2015,963,Onshore,20.81,8.73,70345,118699,59300,Administration,21428
+R057,ADNOC Refining Plant,Ajman,Emirates Petrochem,862958,2000,1664,Mixed,21.46,6.67,359983,378744,124230,Quality Control,17659
+R058,Fujairah Refinery,Abu Dhabi,UAE National Oil Co.,399486,2008,2366,Offshore,13.73,8.41,125199,195266,79020,Engineering,13882
+R059,Fujairah Refinery,Umm Al Quwain,Gulf Energy,275282,1990,2279,Imported,27.59,8.7,119320,117925,38035,Operations,8181
+R060,ADNOC Refining Plant,Sharjah,Ajman Petro,548303,2009,432,Mixed,13.81,9.44,209885,219312,119104,Engineering,22305
+R061,Fujairah Refinery,Sharjah,Emirates Petrochem,688930,1989,540,Mixed,10.89,9.72,259993,298487,130448,Operations,23355
+R062,Ruwais Refinery,Umm Al Quwain,Ajman Petro,218826,2015,640,Offshore,8.6,9.89,80293,91424,47108,Quality Control,14819
+R063,Ajman Refinery,Dubai,ENOC,288578,2020,301,Offshore,15.56,5.35,87809,146051,54716,Operations,9652
+R064,Umm Al Quwain Refining Co.,Ajman,ADNOC Refining,422459,1994,2379,Imported,20.51,8.44,144242,212855,65360,Maintenance,15706
+R065,Al Ain Petro,Sharjah,Gulf Energy,144529,2018,1802,Offshore,33.43,9.99,41521,76857,26150,Operations,23422
+R066,Dubai Energy Refinery,Sharjah,Gulf Energy,113498,2016,860,Onshore,11.6,7.85,40504,47310,25683,Engineering,17931
+R067,Fujairah Refinery,Dubai,UAE National Oil Co.,247603,2000,1156,Mixed,14.7,7.75,94038,118901,34662,Operations,23703
+R068,ADNOC Refining Plant,Sharjah,ENOC,741045,1998,1073,Imported,10.88,6.27,252323,369067,119654,Quality Control,12168
+R069,Umm Al Quwain Refining Co.,Ajman,Emirates Petrochem,517684,2001,1043,Imported,23.98,9.9,205113,192392,120178,Maintenance,10591
+R070,Umm Al Quwain Refining Co.,Sharjah,Gulf Energy,522602,1985,1742,Onshore,23.75,5.99,214054,222857,85689,Administration,17768
+R071,Fujairah Refinery,Sharjah,Emirates Petrochem,175064,1987,622,Mixed,33.18,7.87,71772,63156,40134,Operations,15215
+R072,Emirates Fuel Processing,Ajman,Emirates Petrochem,855564,2018,506,Offshore,7.86,8.99,293560,405671,156332,Administration,9552
+R073,Ruwais Refinery,Fujairah,UAE National Oil Co.,423026,2005,2258,Offshore,4.35,6.03,167636,192021,63367,Administration,17697
+R074,Ajman Refinery,Dubai,Gulf Energy,466985,1994,1548,Offshore,17.45,6.18,168835,194945,103203,Operations,17812
+R075,Al Ain Petro,Ras Al Khaimah,UAE National Oil Co.,154962,2015,2167,Onshore,31.74,8.89,53174,66532,35255,Operations,19165
+R076,Dubai Energy Refinery,Sharjah,Fujairah Energy,461929,2020,723,Mixed,11.04,7.84,193493,198864,69570,Operations,8489
+R077,Dubai Energy Refinery,Sharjah,ADNOC Refining,129639,2009,1490,Onshore,13.63,7.67,59387,56118,14133,Administration,16241
+R078,Ajman Refinery,Sharjah,Sharjah Refining Ltd.,84790,1980,1070,Mixed,32,6.57,31411,39910,13468,Engineering,22056
+R079,Sharjah Petrochem,Fujairah,RAK Oil,167657,2019,1121,Imported,24.22,6.58,63402,63504,40750,Engineering,20263
+R080,Umm Al Quwain Refining Co.,Sharjah,Ajman Petro,802964,1990,976,Imported,30.21,9.77,258670,384842,159451,Operations,18077
+R081,Umm Al Quwain Refining Co.,Sharjah,RAK Oil,375721,2018,1456,Onshore,25.64,6.22,161389,146066,68264,Quality Control,13504
+R082,Al Ain Petro,Fujairah,Sharjah Refining Ltd.,324851,1997,580,Offshore,9.55,6.83,142927,119569,62354,Operations,9275
+R083,Al Ain Petro,Sharjah,ENOC,392852,1995,978,Onshore,32.61,7.22,158988,183571,50292,Engineering,19126
+R084,Emirates Fuel Processing,Ajman,Ajman Petro,730089,1984,1554,Imported,8.36,8.49,297430,347538,85119,Maintenance,24653
+R085,Sharjah Petrochem,Ajman,RAK Oil,831573,1995,2161,Offshore,8.68,5.25,225974,439729,165869,Engineering,20776
+R086,Dubai Energy Refinery,Dubai,Sharjah Refining Ltd.,699306,2016,2348,Imported,29.1,5.12,293488,247113,158703,Operations,24205
+R087,Dubai Energy Refinery,Ajman,RAK Oil,219974,2013,1611,Onshore,23.3,6.07,80556,100109,39308,Operations,16565
+R088,Jebel Ali Refinery,Umm Al Quwain,ENOC,424535,1976,584,Mixed,24.8,5.43,170990,143083,110461,Engineering,22146
+R089,Sharjah Petrochem,Ajman,Emirates Petrochem,454247,1982,685,Offshore,5.36,8.76,151576,219096,83574,Operations,8375
+R090,ADNOC Refining Plant,Umm Al Quwain,Sharjah Refining Ltd.,726064,2021,1420,Imported,31.57,8.27,245606,368343,112114,Quality Control,15430
+R091,Al Ain Petro,Ras Al Khaimah,UAE National Oil Co.,249543,2015,1731,Mixed,28.19,7.64,85811,116161,47570,Quality Control,24631
+R092,Ruwais Refinery,Dubai,UAE National Oil Co.,781063,1985,1921,Imported,12.82,9.02,326309,328462,126290,Administration,12878
+R093,Umm Al Quwain Refining Co.,Umm Al Quwain,Emirates Petrochem,446053,1994,800,Onshore,8.41,6.01,184612,163082,98357,Quality Control,24738
+R094,Al Ain Petro,Ras Al Khaimah,RAK Oil,321869,2007,2302,Mixed,21.8,5.57,107948,122321,91598,Maintenance,17192
+R095,ADNOC Refining Plant,Sharjah,Gulf Energy,512859,2003,650,Offshore,4.48,5.9,168276,215994,128587,Administration,10329
+R096,Al Ain Petro,Umm Al Quwain,UAQ Petroleum,100519,1982,1717,Imported,26.31,6.41,39937,41105,19475,Administration,20337
+R097,Sharjah Petrochem,Umm Al Quwain,UAQ Petroleum,104578,2005,1274,Imported,2.91,8.4,30668,46209,27700,Quality Control,11555
+R098,Ajman Refinery,Abu Dhabi,UAQ Petroleum,354407,1997,1972,Onshore,11.67,9.11,140585,129535,84285,Quality Control,13726
+R099,ADNOC Refining Plant,Abu Dhabi,Fujairah Energy,263572,1996,1428,Offshore,2.1,7.6,96817,125493,41261,Maintenance,9487
+R100,Jebel Ali Refinery,Dubai,Emirates Petrochem,324384,1992,978,Mixed,8.9,6.11,123153,166205,35024,Administration,16428
+R101,Ruwais Refinery,Fujairah,Sharjah Refining Ltd.,271194,2022,2456,Mixed,2.74,7.6,80330,139599,51264,Engineering,14479
+R102,Ajman Refinery,Abu Dhabi,Gulf Energy,842484,2000,1895,Onshore,22.82,6.9,375236,293852,173394,Administration,22954
+R103,Ajman Refinery,Sharjah,UAQ Petroleum,692736,2017,1923,Onshore,27.24,5.4,237972,320079,134683,Engineering,21342
+R104,Ajman Refinery,Dubai,ADNOC Refining,854536,1978,1349,Onshore,31.77,8.19,290182,345899,218453,Maintenance,23348
+R105,Umm Al Quwain Refining Co.,Abu Dhabi,Fujairah Energy,63045,1977,2205,Mixed,10.31,5.24,25916,30155,6973,Administration,12123
+R106,Jebel Ali Refinery,Dubai,UAE National Oil Co.,688711,2023,2368,Mixed,21.72,6.42,235608,302218,150884,Administration,12519
+R107,Ajman Refinery,Fujairah,ENOC,746326,1992,1270,Onshore,17.29,5.5,308860,332344,105121,Maintenance,14318
+R108,Emirates Fuel Processing,Fujairah,Sharjah Refining Ltd.,603354,2015,1909,Imported,20.12,5.56,231691,277245,94417,Engineering,19028
+R109,Dubai Energy Refinery,Fujairah,ADNOC Refining,755091,2017,1810,Onshore,6.66,7.88,351470,299402,104218,Quality Control,11069
+R110,Ajman Refinery,Abu Dhabi,Ajman Petro,363442,1989,325,Imported,15.45,8.98,139041,170979,53421,Engineering,14760
+R111,Sharjah Petrochem,Dubai,UAE National Oil Co.,562993,1995,496,Offshore,4.35,8.56,164229,290498,108265,Administration,14567
+R112,Ajman Refinery,Ajman,Emirates Petrochem,584664,1995,1197,Offshore,10.35,9.28,199207,303386,82069,Operations,9108
+R113,Ajman Refinery,Dubai,ENOC,708352,1984,1487,Imported,14.31,5.66,297843,232016,178491,Administration,18815
+R114,Fujairah Refinery,Fujairah,UAE National Oil Co.,471166,2015,868,Offshore,3.58,9.02,163658,187755,119751,Operations,17683
+R115,Umm Al Quwain Refining Co.,Dubai,Gulf Energy,825313,2010,553,Onshore,30.55,5.24,273756,426635,124921,Engineering,12140
+R116,Umm Al Quwain Refining Co.,Dubai,UAQ Petroleum,350112,2010,665,Offshore,30.86,7.78,121456,156827,71827,Operations,9728
+R117,Sharjah Petrochem,Fujairah,Gulf Energy,813105,2002,881,Mixed,4.96,9.74,309890,299762,203451,Quality Control,17359
+R118,Jebel Ali Refinery,Sharjah,UAE National Oil Co.,893519,1995,2409,Offshore,5.23,6.52,294681,423989,174848,Quality Control,15881
+R119,Dubai Energy Refinery,Ras Al Khaimah,Ajman Petro,675213,2003,737,Offshore,15.37,9.88,256061,241861,177289,Engineering,19384
+R120,Ruwais Refinery,Fujairah,ENOC,513255,2004,2399,Offshore,1.71,6,207369,247703,58181,Administration,21319
+R121,Dubai Energy Refinery,Sharjah,Fujairah Energy,178005,2022,2298,Mixed,11.86,6.57,81247,70421,26335,Maintenance,13810
+R122,Dubai Energy Refinery,Sharjah,Sharjah Refining Ltd.,442148,2004,865,Offshore,17.54,5.36,149967,219565,72615,Engineering,13367
+R123,ADNOC Refining Plant,Ras Al Khaimah,Emirates Petrochem,777913,1995,2472,Mixed,30.01,6.19,264024,349239,164649,Administration,24643
+R124,ADNOC Refining Plant,Ras Al Khaimah,Gulf Energy,259063,2011,1312,Onshore,19.03,8.98,76749,139756,42556,Maintenance,20716
+R125,Ruwais Refinery,Abu Dhabi,Gulf Energy,351109,1986,1260,Imported,29.26,7.51,140440,168367,42301,Engineering,10785
+R126,Al Ain Petro,Ras Al Khaimah,UAQ Petroleum,545839,2000,726,Imported,31.36,5.48,215143,209620,121074,Operations,17914
+R127,Jebel Ali Refinery,Abu Dhabi,Ajman Petro,104095,1996,1843,Offshore,27.45,5.82,46194,44028,13872,Operations,20516
+R128,Ruwais Refinery,Abu Dhabi,ENOC,466967,2022,2496,Offshore,12.39,9.4,213448,192036,61481,Engineering,15557
+R129,ADNOC Refining Plant,Ras Al Khaimah,ENOC,258788,2000,1403,Mixed,24.83,9.63,92458,109412,56917,Quality Control,10559
+R130,Al Ain Petro,Fujairah,Ajman Petro,292881,2016,2249,Offshore,13.94,6.72,113530,111212,68138,Maintenance,20053
+R131,ADNOC Refining Plant,Ras Al Khaimah,UAQ Petroleum,83845,1983,946,Imported,20.25,9.32,37069,35661,11113,Operations,11467
+R132,Al Ain Petro,Sharjah,UAQ Petroleum,659239,2018,930,Onshore,11.29,7.3,253898,258769,146570,Quality Control,23734
+R133,Umm Al Quwain Refining Co.,Umm Al Quwain,Gulf Energy,226168,1987,2268,Imported,16.26,8.12,96952,89920,39295,Engineering,23738
+R134,Umm Al Quwain Refining Co.,Abu Dhabi,ENOC,142494,1998,2264,Onshore,4.14,8.72,41906,76963,23624,Operations,22133
+R135,Dubai Energy Refinery,Umm Al Quwain,Emirates Petrochem,276530,2021,2486,Imported,3.56,8.58,101564,102966,71998,Maintenance,14618
+R136,Ruwais Refinery,Ajman,Emirates Petrochem,746610,2007,2317,Onshore,27.05,6.69,259493,368052,119063,Maintenance,22228
+R137,Sharjah Petrochem,Fujairah,Emirates Petrochem,864048,1995,1598,Imported,32.96,7.22,352311,305605,206130,Quality Control,14406
+R138,Dubai Energy Refinery,Abu Dhabi,Ajman Petro,704487,1987,2463,Offshore,2.05,9.54,282164,233039,189283,Operations,21818
+R139,Fujairah Refinery,Umm Al Quwain,ENOC,374910,1986,836,Onshore,15.32,5.45,160733,130478,83697,Quality Control,9662
+R140,ADNOC Refining Plant,Umm Al Quwain,Sharjah Refining Ltd.,145648,1983,2046,Imported,15.08,9.23,47145,72723,25778,Maintenance,10613
+R141,Emirates Fuel Processing,Ras Al Khaimah,Fujairah Energy,248445,1992,346,Mixed,23.95,7.67,93123,103620,51701,Maintenance,19234
+R142,Al Ain Petro,Sharjah,Gulf Energy,795289,2018,2436,Onshore,3.91,5.84,321617,345916,127755,Engineering,22675
+R143,Emirates Fuel Processing,Sharjah,Sharjah Refining Ltd.,475377,1977,2435,Mixed,17.2,8.95,193201,207506,74669,Operations,22537
+R144,Dubai Energy Refinery,Ajman,Emirates Petrochem,188302,2010,1367,Onshore,28.89,6.33,80453,72482,35365,Quality Control,13896
+R145,Jebel Ali Refinery,Fujairah,Fujairah Energy,467048,2014,558,Mixed,19.5,6.63,144025,250718,72304,Quality Control,14206
+R146,Emirates Fuel Processing,Ajman,Sharjah Refining Ltd.,588298,1983,611,Offshore,20.92,7.62,267794,203784,116718,Administration,14357
+R147,Dubai Energy Refinery,Umm Al Quwain,ADNOC Refining,324769,1998,2386,Offshore,4.88,5.3,116492,139488,68787,Maintenance,18434
+R148,Fujairah Refinery,Abu Dhabi,RAK Oil,614828,2021,335,Mixed,25.92,9.67,189718,306500,118608,Maintenance,23400
+R149,Jebel Ali Refinery,Dubai,RAK Oil,734932,1981,600,Mixed,14.36,5.7,258501,332817,143612,Maintenance,10694
+R150,Fujairah Refinery,Sharjah,UAE National Oil Co.,117950,1979,1650,Mixed,15.62,8.26,59117,43344,15488,Quality Control,13907
+R151,Fujairah Refinery,Abu Dhabi,Fujairah Energy,360920,2009,2275,Imported,27.18,7.39,154144,127710,79064,Engineering,16093
+R152,ADNOC Refining Plant,Abu Dhabi,ENOC,520878,2008,2104,Offshore,7.24,6.97,208977,223432,88467,Operations,24738
+R153,Dubai Energy Refinery,Ajman,UAQ Petroleum,256601,1987,717,Mixed,4.74,5.58,114266,108683,33650,Administration,20963
+R154,Emirates Fuel Processing,Umm Al Quwain,Gulf Energy,500411,1994,936,Mixed,3.16,7.43,162596,229873,107940,Operations,23449
+R155,Emirates Fuel Processing,Umm Al Quwain,RAK Oil,635856,1977,1625,Mixed,19.77,8.64,270102,239084,126669,Engineering,10917
+R156,Al Ain Petro,Abu Dhabi,UAQ Petroleum,864692,2006,2143,Imported,21.37,6.57,296110,437578,131003,Operations,10391
+R157,Ajman Refinery,Fujairah,Gulf Energy,885529,1983,2499,Mixed,32.18,8.06,357821,430225,97482,Quality Control,18664
+R158,Al Ain Petro,Ajman,UAE National Oil Co.,117007,2015,1909,Onshore,2.52,5.27,40780,61458,14767,Quality Control,9269
+R159,Ajman Refinery,Abu Dhabi,Gulf Energy,517485,1998,2435,Imported,32.69,5.82,166684,274569,76231,Engineering,12730
+R160,Ruwais Refinery,Ras Al Khaimah,RAK Oil,749580,2009,993,Onshore,30.31,8.05,281949,353586,114043,Quality Control,13068
+R161,Sharjah Petrochem,Umm Al Quwain,Fujairah Energy,597745,2008,1580,Offshore,33.91,5.26,184177,254227,159340,Administration,15897
+R162,Ajman Refinery,Ajman,Ajman Petro,367500,2009,2188,Imported,14.02,9.51,152936,176306,38256,Operations,20244
+R163,Jebel Ali Refinery,Fujairah,Fujairah Energy,623125,2011,1852,Offshore,11.33,7.47,295303,245724,82096,Operations,11241
+R164,Dubai Energy Refinery,Ras Al Khaimah,Ajman Petro,109380,2007,1947,Onshore,16.43,5.44,36824,51166,21389,Quality Control,24395
+R165,Al Ain Petro,Fujairah,ENOC,59144,1995,543,Onshore,18.09,7.49,19486,30539,9117,Administration,18363
+R166,Fujairah Refinery,Ajman,ENOC,177461,2001,2209,Mixed,13.99,8.04,77600,62643,37217,Administration,10931
+R167,Al Ain Petro,Sharjah,UAQ Petroleum,667842,2022,1971,Mixed,33.74,6.74,267552,241127,159162,Maintenance,22231
+R168,Jebel Ali Refinery,Umm Al Quwain,Gulf Energy,105926,1984,368,Onshore,30.58,9.43,41257,49466,15202,Quality Control,23554
+R169,Dubai Energy Refinery,Ras Al Khaimah,Sharjah Refining Ltd.,679175,2011,2475,Onshore,22.28,5.28,246506,242910,189757,Administration,23957
+R170,Jebel Ali Refinery,Sharjah,ADNOC Refining,177615,2007,1245,Offshore,22.98,9.76,70788,70150,36676,Quality Control,17316
+R171,Jebel Ali Refinery,Fujairah,UAE National Oil Co.,389707,2012,1559,Imported,2.29,7.96,170666,174494,44546,Maintenance,17994
+R172,Umm Al Quwain Refining Co.,Ajman,Fujairah Energy,515060,1978,1577,Offshore,2.52,9.2,211678,177906,125475,Quality Control,11512
+R173,Dubai Energy Refinery,Dubai,Gulf Energy,548014,2007,1683,Imported,20.84,8.77,207793,248477,91743,Operations,19883
+R174,Al Ain Petro,Fujairah,UAE National Oil Co.,852677,2018,1940,Offshore,32.04,9.52,292626,379579,180471,Operations,15543
+R175,ADNOC Refining Plant,Umm Al Quwain,Gulf Energy,362769,2000,1339,Onshore,29.12,6.2,121672,179474,61621,Operations,19168
+R176,Ajman Refinery,Dubai,UAE National Oil Co.,625432,1976,1799,Imported,32.55,7,259860,260157,105413,Engineering,24818
+R177,Emirates Fuel Processing,Ajman,UAE National Oil Co.,732143,2022,1000,Mixed,9.55,7.56,243588,284681,203873,Engineering,24872
+R178,ADNOC Refining Plant,Abu Dhabi,Ajman Petro,583277,2014,2001,Onshore,4.77,8.43,175274,259959,148042,Operations,15012
+R179,Umm Al Quwain Refining Co.,Ajman,Ajman Petro,277404,2023,304,Mixed,3,8.62,100413,127008,49981,Administration,11585
+R180,Ruwais Refinery,Ajman,ENOC,377771,2019,2205,Onshore,9.08,9.49,120964,178841,77964,Maintenance,11760
+R181,Sharjah Petrochem,Fujairah,UAE National Oil Co.,60563,2015,2290,Mixed,22.46,6.83,23051,29803,7708,Operations,14565
+R182,Fujairah Refinery,Abu Dhabi,UAE National Oil Co.,342488,2023,2391,Mixed,20.33,6.51,119330,167911,55246,Operations,13169
+R183,Ajman Refinery,Dubai,Gulf Energy,882160,2008,906,Mixed,29.5,9.72,291680,476337,114141,Maintenance,23252
+R184,ADNOC Refining Plant,Abu Dhabi,ENOC,294002,1981,1555,Imported,13.38,9.18,105224,142432,46345,Operations,15374
+R185,Jebel Ali Refinery,Ras Al Khaimah,Fujairah Energy,861287,2023,1950,Offshore,24.98,9.5,311280,403090,146916,Quality Control,8744
+R186,Al Ain Petro,Ajman,ENOC,410914,1977,2121,Mixed,18.45,6.61,150865,183777,76271,Engineering,21439
+R187,Ruwais Refinery,Abu Dhabi,UAQ Petroleum,495182,1990,2197,Mixed,2.95,5.5,197826,176550,120804,Quality Control,24575
+R188,Dubai Energy Refinery,Ajman,Gulf Energy,477402,1975,1529,Offshore,21.8,8.56,159665,244109,73627,Maintenance,13972
+R189,Ruwais Refinery,Sharjah,UAQ Petroleum,177553,1980,885,Onshore,25.38,8.3,66878,73588,37086,Operations,11854
+R190,Ruwais Refinery,Ras Al Khaimah,ENOC,493955,2015,392,Mixed,9.2,7.25,192995,230292,70666,Administration,10205
+R191,ADNOC Refining Plant,Sharjah,Sharjah Refining Ltd.,263646,1979,1197,Offshore,30.37,6.93,92145,133789,37711,Quality Control,24598
+R192,Al Ain Petro,Umm Al Quwain,ENOC,139456,1993,2455,Offshore,10.3,9.48,58965,50630,29859,Maintenance,8143
+R193,ADNOC Refining Plant,Sharjah,RAK Oil,836624,1989,2475,Imported,4.7,9.16,278665,388346,169611,Administration,10270
+R194,Ruwais Refinery,Fujairah,UAQ Petroleum,274938,1983,996,Mixed,24.18,9.45,78808,137071,59057,Maintenance,17140
+R195,Jebel Ali Refinery,Umm Al Quwain,Sharjah Refining Ltd.,516831,1982,1564,Mixed,16.55,9.7,191537,221994,103298,Administration,14101
+R196,ADNOC Refining Plant,Ras Al Khaimah,ADNOC Refining,226670,1981,1676,Imported,14.37,8.15,68905,99882,57881,Engineering,13595
+R197,Umm Al Quwain Refining Co.,Umm Al Quwain,Emirates Petrochem,896216,2001,2446,Imported,17.85,5.02,255337,397662,243216,Administration,10845
+R198,Umm Al Quwain Refining Co.,Abu Dhabi,UAQ Petroleum,365528,1975,785,Mixed,17.98,5.38,141592,145975,77959,Engineering,20929
+R199,Al Ain Petro,Fujairah,Fujairah Energy,573577,2010,675,Mixed,1.7,5.44,243242,247930,82404,Maintenance,21016
+R200,Ajman Refinery,Sharjah,UAE National Oil Co.,558004,1986,2369,Mixed,30.06,7.93,190238,264954,102811,Administration,14264
+R201,Sharjah Petrochem,Ajman,ENOC,629724,2010,2497,Offshore,17.66,5.95,275933,278330,75459,Administration,20284
+R202,Al Ain Petro,Abu Dhabi,Sharjah Refining Ltd.,516176,1985,2095,Onshore,9.92,5.76,148755,234525,132895,Operations,21850
+R203,Al Ain Petro,Umm Al Quwain,UAE National Oil Co.,877922,2003,493,Imported,28.16,9.18,278869,495270,103782,Administration,24229
+R204,Dubai Energy Refinery,Umm Al Quwain,RAK Oil,628031,1982,1725,Mixed,20,7.78,294399,228517,105114,Engineering,21129
+R205,Dubai Energy Refinery,Umm Al Quwain,UAQ Petroleum,277486,2008,796,Mixed,5.98,6.64,112423,122153,42908,Quality Control,12391
+R206,Ruwais Refinery,Ajman,ENOC,80846,2003,478,Offshore,30.44,9.1,35126,34693,11026,Engineering,16405
+R207,Umm Al Quwain Refining Co.,Ras Al Khaimah,RAK Oil,324478,1990,2426,Mixed,21.36,5.07,135335,155007,34135,Maintenance,16068
+R208,Al Ain Petro,Abu Dhabi,ADNOC Refining,233916,1995,2484,Onshore,18.24,8.53,91229,96061,46624,Maintenance,18488
+R209,Jebel Ali Refinery,Umm Al Quwain,UAQ Petroleum,855661,1996,414,Imported,27.25,6.42,312603,343289,199768,Operations,9103
+R210,Umm Al Quwain Refining Co.,Ras Al Khaimah,Ajman Petro,801359,1984,1397,Onshore,32.56,5.99,328710,337296,135351,Maintenance,24548
+R211,Jebel Ali Refinery,Ajman,RAK Oil,539225,1996,1555,Mixed,23.81,7.29,229270,185140,124814,Operations,10742
+R212,Fujairah Refinery,Abu Dhabi,Gulf Energy,82310,1975,1772,Mixed,28.06,7.81,26794,40771,14744,Operations,10003
+R213,Umm Al Quwain Refining Co.,Dubai,Sharjah Refining Ltd.,275341,2017,1853,Onshore,1.96,8.32,98714,115661,60965,Quality Control,17056
+R214,Al Ain Petro,Abu Dhabi,ADNOC Refining,246067,1975,2336,Offshore,34.21,8.27,79440,112138,54488,Engineering,19219
+R215,ADNOC Refining Plant,Fujairah,Ajman Petro,250192,2000,2367,Onshore,31.7,9.94,91140,124500,34551,Quality Control,18996
+R216,Al Ain Petro,Sharjah,UAQ Petroleum,748207,1984,501,Imported,29.82,7.28,231861,342326,174019,Administration,10243
+R217,Emirates Fuel Processing,Sharjah,Emirates Petrochem,453900,2011,1690,Onshore,10.71,5.41,194508,204401,54989,Administration,15649
+R218,Al Ain Petro,Fujairah,UAE National Oil Co.,878330,2015,1019,Mixed,15.66,8.37,275868,452505,149955,Engineering,19619
+R219,Ajman Refinery,Dubai,Gulf Energy,155468,2017,1740,Onshore,14.53,8.39,50279,71651,33536,Administration,11744
+R220,Dubai Energy Refinery,Abu Dhabi,Emirates Petrochem,190595,2006,431,Onshore,18.98,6.28,82151,67396,41046,Maintenance,17860
+R221,ADNOC Refining Plant,Dubai,Fujairah Energy,139763,1991,2049,Offshore,31.62,7.79,53146,58091,28525,Operations,10090
+R222,Dubai Energy Refinery,Dubai,Ajman Petro,833266,2010,2001,Offshore,14.05,6.25,254328,421465,157472,Maintenance,17186
+R223,ADNOC Refining Plant,Sharjah,Gulf Energy,754542,2021,2042,Onshore,23.1,5.88,339474,310771,104296,Administration,13160
+R224,ADNOC Refining Plant,Abu Dhabi,Gulf Energy,225453,1982,413,Imported,12.78,8.21,86768,99312,39371,Quality Control,24730
+R225,Ruwais Refinery,Ajman,UAE National Oil Co.,874620,2022,1144,Offshore,6.03,6.39,302081,360450,212088,Engineering,21585
+R226,Ajman Refinery,Ajman,ADNOC Refining,893009,1980,647,Offshore,2.61,8.19,269274,452646,171088,Quality Control,22141
+R227,Ruwais Refinery,Umm Al Quwain,Ajman Petro,875475,1993,1788,Onshore,6.89,6.74,285493,355048,234932,Engineering,18561
+R228,Emirates Fuel Processing,Ras Al Khaimah,ENOC,153545,2018,707,Offshore,15.29,7.49,53179,72587,27777,Maintenance,11633
+R229,ADNOC Refining Plant,Umm Al Quwain,Ajman Petro,211188,1998,1773,Mixed,29.87,5.69,90551,76466,44169,Administration,8970
+R230,Sharjah Petrochem,Dubai,Gulf Energy,797670,2012,1138,Mixed,22.33,7.03,307951,317983,171735,Operations,18576
+R231,Jebel Ali Refinery,Umm Al Quwain,ENOC,880084,2004,1205,Imported,20.55,8.51,340209,379097,160776,Engineering,20961
+R232,Fujairah Refinery,Sharjah,Emirates Petrochem,67943,1981,1086,Imported,9.86,9.91,26854,31050,10037,Quality Control,10231
+R233,Dubai Energy Refinery,Sharjah,UAQ Petroleum,624490,2013,1316,Mixed,27.6,8.74,276704,222267,125517,Maintenance,13811
+R234,Emirates Fuel Processing,Abu Dhabi,Fujairah Energy,743338,2013,1305,Onshore,13.06,8.09,295086,291265,156986,Engineering,9676
+R235,Sharjah Petrochem,Dubai,RAK Oil,85843,1995,1285,Onshore,5.29,7.09,32431,37233,16178,Administration,23964
+R236,Umm Al Quwain Refining Co.,Ajman,RAK Oil,129463,2012,850,Mixed,27.52,9.89,48205,58672,22584,Quality Control,15180
+R237,Ruwais Refinery,Abu Dhabi,Emirates Petrochem,101554,1989,920,Mixed,25.57,5.68,46585,40121,14847,Maintenance,13750
+R238,Umm Al Quwain Refining Co.,Ajman,Sharjah Refining Ltd.,596958,1977,561,Offshore,17.41,8.36,238922,225323,132712,Operations,11683
+R239,Jebel Ali Refinery,Sharjah,UAQ Petroleum,575335,1986,1395,Offshore,12.19,9.89,262690,232297,80347,Administration,21432
+R240,ADNOC Refining Plant,Abu Dhabi,UAQ Petroleum,809740,2011,1419,Offshore,26.43,7.43,257367,430343,122028,Operations,23609
+R241,Al Ain Petro,Ras Al Khaimah,Ajman Petro,331706,2009,1022,Onshore,21.88,6.71,132055,137432,62218,Administration,24335
+R242,Al Ain Petro,Umm Al Quwain,RAK Oil,267188,1977,303,Onshore,27.62,7.67,122966,100412,43809,Maintenance,8484
+R243,Dubai Energy Refinery,Sharjah,Ajman Petro,387522,1983,673,Mixed,9.15,6.74,153566,176104,57850,Engineering,17729
+R244,Emirates Fuel Processing,Abu Dhabi,ENOC,628847,2012,478,Onshore,17.9,7.42,229929,313114,85803,Maintenance,23344
+R245,Emirates Fuel Processing,Ras Al Khaimah,Emirates Petrochem,245076,2021,816,Offshore,24.19,9.93,116635,85500,42939,Maintenance,23687
+R246,Ruwais Refinery,Sharjah,Emirates Petrochem,261275,2011,561,Offshore,20.06,5.48,96650,110953,53671,Maintenance,14701
+R247,Al Ain Petro,Sharjah,Ajman Petro,720205,2023,1900,Imported,17.3,9.13,208053,353403,158748,Operations,13420
+R248,ADNOC Refining Plant,Sharjah,ENOC,601944,1988,906,Mixed,22.82,6.73,249452,236845,115645,Quality Control,22887
+R249,Al Ain Petro,Dubai,ENOC,488955,2001,1327,Offshore,34.35,8.24,144706,250483,93765,Administration,12242
+R250,Fujairah Refinery,Umm Al Quwain,RAK Oil,384237,1980,490,Imported,31.93,7.44,150716,183304,50216,Maintenance,18494
+R251,Ruwais Refinery,Sharjah,Gulf Energy,363843,1997,1176,Onshore,8.95,6.24,150263,137847,75731,Maintenance,24595
+R252,Emirates Fuel Processing,Umm Al Quwain,UAQ Petroleum,886486,1991,2195,Mixed,29.08,6.29,316120,395050,175315,Engineering,24328
+R253,Al Ain Petro,Umm Al Quwain,Emirates Petrochem,855105,1988,1417,Onshore,11.56,5.95,292905,424921,137278,Operations,9075
+R254,Emirates Fuel Processing,Dubai,ENOC,595119,2021,1169,Offshore,5.28,5.42,223257,282105,89755,Quality Control,18647
+R255,Ruwais Refinery,Fujairah,UAE National Oil Co.,582514,1991,1142,Mixed,2.71,7.32,225569,243421,113523,Quality Control,13201
+R256,Fujairah Refinery,Umm Al Quwain,UAQ Petroleum,187297,2004,1042,Imported,22.45,7.33,68995,75191,43109,Maintenance,9617
+R257,Al Ain Petro,Ajman,Sharjah Refining Ltd.,366440,1995,2323,Mixed,9.92,8.59,133455,151422,81561,Administration,11947
+R258,Dubai Energy Refinery,Fujairah,ENOC,337754,1992,2366,Mixed,15.64,9.94,99715,182238,55799,Operations,22444
+R259,Ajman Refinery,Ras Al Khaimah,Ajman Petro,320652,2004,2227,Offshore,27.17,9.85,99519,155168,65963,Operations,16498
+R260,Ruwais Refinery,Ajman,Fujairah Energy,345051,2017,1746,Onshore,10.98,6.42,149247,113710,82092,Administration,13200
+R261,Emirates Fuel Processing,Umm Al Quwain,Ajman Petro,571851,1986,701,Onshore,12.02,6.03,236139,222880,112831,Administration,21944
+R262,Dubai Energy Refinery,Umm Al Quwain,Gulf Energy,68465,1980,2149,Onshore,32.73,9.94,30473,29441,8549,Maintenance,19800
+R263,Al Ain Petro,Ajman,Emirates Petrochem,193443,2021,2013,Mixed,9.74,9.5,80856,89179,23406,Administration,24911
+R264,Umm Al Quwain Refining Co.,Ras Al Khaimah,ADNOC Refining,627738,1977,1724,Onshore,22.77,7.6,279181,248286,100269,Engineering,20856
+R265,Umm Al Quwain Refining Co.,Abu Dhabi,UAE National Oil Co.,672331,2019,1797,Onshore,13.96,6.38,297627,212629,162073,Maintenance,8323
+R266,ADNOC Refining Plant,Sharjah,Gulf Energy,60675,2000,1476,Onshore,15.34,6.28,22575,30296,7802,Quality Control,20403
+R267,Al Ain Petro,Ajman,Emirates Petrochem,251687,1979,1437,Offshore,24.79,8.87,90313,119763,41609,Administration,18876
+R268,Sharjah Petrochem,Dubai,ADNOC Refining,571690,2009,1546,Mixed,31.27,5.49,240925,227240,103523,Engineering,14219
+R269,Umm Al Quwain Refining Co.,Sharjah,ADNOC Refining,881204,1987,1892,Mixed,23.74,8.22,280763,392088,208351,Quality Control,23138
+R270,Sharjah Petrochem,Umm Al Quwain,UAQ Petroleum,445675,1983,1999,Imported,19.39,6.31,187252,188845,69576,Operations,14755
+R271,Dubai Energy Refinery,Umm Al Quwain,Gulf Energy,634356,2009,1202,Mixed,4.03,5.3,218285,298207,117862,Maintenance,22158
+R272,Ajman Refinery,Abu Dhabi,UAE National Oil Co.,391348,2005,2080,Onshore,14.58,7.43,156114,166181,69052,Engineering,21807
+R273,Sharjah Petrochem,Fujairah,RAK Oil,569222,2003,1161,Mixed,19.81,8.34,177587,322188,69446,Administration,24535
+R274,Al Ain Petro,Ras Al Khaimah,ENOC,200678,1996,1158,Onshore,7.74,9,79603,89853,31221,Operations,14330
+R275,Ajman Refinery,Dubai,UAE National Oil Co.,486096,1994,1610,Imported,8.03,6.39,179018,184431,122645,Maintenance,9957
+R276,Ruwais Refinery,Sharjah,RAK Oil,142221,2019,2014,Offshore,17.32,9.62,70416,53321,18482,Operations,9718
+R277,Dubai Energy Refinery,Abu Dhabi,Ajman Petro,89574,2010,1828,Imported,2.08,8.16,29955,35062,24555,Administration,15496
+R278,ADNOC Refining Plant,Umm Al Quwain,ENOC,475114,2004,2106,Offshore,10.12,7.58,153573,238981,82559,Operations,12735
+R279,ADNOC Refining Plant,Ras Al Khaimah,RAK Oil,145751,2005,609,Offshore,24.3,5.19,43908,78149,23693,Maintenance,12573
+R280,Al Ain Petro,Sharjah,Fujairah Energy,183054,1996,1689,Offshore,20.47,6.21,60098,82008,40947,Maintenance,14385
+R281,Umm Al Quwain Refining Co.,Abu Dhabi,Sharjah Refining Ltd.,106736,2015,1756,Mixed,8.91,5.61,37379,52689,16667,Maintenance,19792
+R282,Dubai Energy Refinery,Abu Dhabi,Emirates Petrochem,502000,1983,915,Offshore,34.56,6.34,184195,220551,97252,Administration,10915
+R283,Ruwais Refinery,Dubai,Gulf Energy,804142,2022,1114,Offshore,29.19,7.21,256377,412686,135077,Quality Control,22121
+R284,Sharjah Petrochem,Sharjah,ENOC,149040,2020,1076,Offshore,5.08,5.69,53821,64868,30350,Engineering,14614
+R285,Ajman Refinery,Ras Al Khaimah,ENOC,839753,1995,1643,Offshore,10.94,9.88,299305,354784,185663,Engineering,18464
+R286,Umm Al Quwain Refining Co.,Sharjah,ADNOC Refining,662208,1999,2130,Onshore,34.01,9.51,282413,283358,96436,Quality Control,21563
+R287,Umm Al Quwain Refining Co.,Ras Al Khaimah,ENOC,784287,1999,927,Mixed,13.21,6.64,298289,319759,166238,Administration,13328
+R288,ADNOC Refining Plant,Fujairah,Sharjah Refining Ltd.,245611,1997,440,Mixed,4.74,9.86,92201,101596,51813,Engineering,18278
+R289,Sharjah Petrochem,Abu Dhabi,Gulf Energy,874455,2002,2009,Offshore,12.79,8.64,241700,463105,169649,Quality Control,12690
+R290,Dubai Energy Refinery,Fujairah,Fujairah Energy,609052,2020,2446,Mixed,12.58,6.02,249306,286520,73225,Operations,9599
+R291,Ruwais Refinery,Fujairah,RAK Oil,156193,2000,2460,Onshore,34.08,9.69,48676,75475,32041,Engineering,20181
+R292,ADNOC Refining Plant,Ras Al Khaimah,UAE National Oil Co.,107713,2002,1752,Onshore,18.35,7.16,39418,49311,18983,Maintenance,22206
+R293,Ruwais Refinery,Sharjah,Gulf Energy,242861,2019,1708,Offshore,11.78,6.57,79254,124199,39406,Engineering,16998
+R294,Emirates Fuel Processing,Dubai,Sharjah Refining Ltd.,287511,2008,1403,Offshore,23.1,7.26,110290,120665,56555,Operations,19890
+R295,Ruwais Refinery,Ajman,Emirates Petrochem,755413,1998,1091,Mixed,13.9,5.22,263631,293528,198253,Operations,20983
+R296,ADNOC Refining Plant,Abu Dhabi,UAQ Petroleum,354360,2019,1282,Offshore,28.71,6.71,129836,146305,78217,Operations,15913
+R297,Ruwais Refinery,Ajman,UAE National Oil Co.,683702,1990,1245,Offshore,4.46,6.45,245728,274564,163409,Quality Control,23996
+R298,ADNOC Refining Plant,Sharjah,UAE National Oil Co.,830401,2021,1079,Offshore,19.62,6.09,291799,377231,161369,Engineering,19699
+R299,Ajman Refinery,Fujairah,Sharjah Refining Ltd.,616811,2016,401,Mixed,16.45,8.3,230789,241682,144339,Administration,12846
+R300,Dubai Energy Refinery,Sharjah,UAE National Oil Co.,100622,2003,1519,Offshore,21.14,7.88,36135,51104,13381,Administration,24208
+R301,Ajman Refinery,Ajman,Sharjah Refining Ltd.,605627,2021,1626,Imported,18.23,5.69,260062,212292,133272,Administration,9821
+R302,Al Ain Petro,Ajman,RAK Oil,191336,2004,2450,Offshore,34.05,9.74,65873,84131,41330,Maintenance,22660
+R303,Al Ain Petro,Fujairah,UAE National Oil Co.,270807,2021,1090,Onshore,18.18,7.04,101241,126246,43319,Operations,22867
+R304,Sharjah Petrochem,Abu Dhabi,Sharjah Refining Ltd.,499956,1982,1214,Onshore,19.86,8.44,175444,219736,104774,Operations,22759
+R305,Emirates Fuel Processing,Ajman,Ajman Petro,784387,2010,2044,Imported,34.38,8.89,325006,336997,122382,Operations,16314
+R306,Dubai Energy Refinery,Sharjah,Emirates Petrochem,518387,2002,1350,Imported,23.66,5.55,224080,188693,105612,Administration,10080
+R307,Jebel Ali Refinery,Ajman,UAQ Petroleum,485525,2014,561,Imported,2.38,8.84,209915,184012,91596,Quality Control,16835
+R308,ADNOC Refining Plant,Fujairah,Ajman Petro,695050,1979,2000,Mixed,26.05,8.93,239186,258188,197675,Operations,23396
+R309,Emirates Fuel Processing,Ajman,Emirates Petrochem,249860,1993,670,Mixed,9.18,5.19,97507,99561,52790,Operations,20625
+R310,Emirates Fuel Processing,Dubai,RAK Oil,165812,1993,586,Onshore,32.24,9.98,50694,74442,40675,Maintenance,14687
+R311,Fujairah Refinery,Ras Al Khaimah,RAK Oil,744248,2007,776,Offshore,20.83,8.73,249380,374553,120314,Engineering,11648
+R312,ADNOC Refining Plant,Sharjah,RAK Oil,671770,1977,2467,Offshore,2.05,5.59,182490,319132,170146,Operations,18276
+R313,Al Ain Petro,Sharjah,ADNOC Refining,110820,1989,1288,Onshore,13.28,7.71,35898,50035,24886,Quality Control,17960
+R314,ADNOC Refining Plant,Fujairah,ADNOC Refining,675080,2006,2188,Mixed,2.39,5.56,257208,281198,136672,Maintenance,17112
+R315,Fujairah Refinery,Sharjah,Fujairah Energy,129391,2011,494,Offshore,15.84,8,53487,45410,30493,Engineering,14921
+R316,Sharjah Petrochem,Umm Al Quwain,Fujairah Energy,402820,1980,328,Onshore,5.39,7.34,118154,209994,74670,Administration,15363
+R317,Ajman Refinery,Umm Al Quwain,ENOC,834335,1985,1377,Imported,16.36,9.9,337425,342060,154849,Quality Control,9855
+R318,Dubai Energy Refinery,Sharjah,ADNOC Refining,743264,2008,969,Imported,17.03,7.18,274492,376720,92050,Administration,22909
+R319,Jebel Ali Refinery,Abu Dhabi,UAE National Oil Co.,116902,1978,2331,Offshore,24.54,5.38,46798,55817,14286,Maintenance,14005
+R320,Al Ain Petro,Umm Al Quwain,Ajman Petro,476302,2008,1144,Offshore,26.42,6.94,138563,225542,112196,Operations,19499
+R321,Ruwais Refinery,Fujairah,ENOC,642236,2013,1017,Mixed,34.77,9.53,255757,258469,128009,Administration,13745
+R322,Umm Al Quwain Refining Co.,Ajman,UAQ Petroleum,763799,2002,1099,Offshore,7.98,8.62,298881,307948,156968,Administration,11435
+R323,Sharjah Petrochem,Umm Al Quwain,ADNOC Refining,396320,1979,344,Offshore,10.02,9.24,168049,158161,70108,Maintenance,9763
+R324,Fujairah Refinery,Umm Al Quwain,Fujairah Energy,325294,2023,2346,Offshore,8.8,6.43,124680,114748,85865,Operations,18128
+R325,Dubai Energy Refinery,Dubai,RAK Oil,595330,1990,2089,Offshore,7.01,7.27,280308,205803,109218,Operations,22793
+R326,ADNOC Refining Plant,Ajman,Ajman Petro,539162,2003,2371,Onshore,11.75,9.79,218248,187678,133235,Administration,15363
+R327,Sharjah Petrochem,Abu Dhabi,ADNOC Refining,211717,1980,860,Offshore,29.23,5.02,79751,85617,46347,Engineering,14022
+R328,Sharjah Petrochem,Ajman,ADNOC Refining,282167,1996,1136,Imported,23.36,6.89,101709,136793,43663,Operations,18874
+R329,Fujairah Refinery,Ras Al Khaimah,ADNOC Refining,72116,1982,1493,Offshore,18.98,9.05,27626,30352,14136,Engineering,8932
+R330,Ruwais Refinery,Fujairah,UAE National Oil Co.,808692,2023,1222,Onshore,30.82,8.6,229386,402865,176439,Engineering,20471
+R331,Umm Al Quwain Refining Co.,Abu Dhabi,Ajman Petro,385007,2022,1524,Offshore,3.26,7.79,111797,203160,70048,Quality Control,11652
+R332,Fujairah Refinery,Ajman,ENOC,886496,1975,1770,Onshore,19.47,5.23,352158,404467,129870,Quality Control,15615
+R333,Ruwais Refinery,Ras Al Khaimah,Fujairah Energy,288477,1983,1487,Onshore,11.94,8.68,118767,103145,66564,Operations,14742
+R334,Ajman Refinery,Ras Al Khaimah,ENOC,589838,2011,1206,Mixed,30.58,6.02,170060,272738,147039,Operations,14832
+R335,Emirates Fuel Processing,Abu Dhabi,Gulf Energy,387149,2007,2079,Onshore,7.67,7.06,119445,166150,101552,Operations,14258
+R336,Dubai Energy Refinery,Ras Al Khaimah,Gulf Energy,663563,1987,635,Onshore,29.22,9.53,256342,303607,103612,Administration,12628
+R337,ADNOC Refining Plant,Fujairah,Gulf Energy,569393,1990,454,Offshore,30.22,6.78,203810,250261,115321,Operations,23583
+R338,Fujairah Refinery,Ajman,UAE National Oil Co.,689413,2017,868,Imported,11.83,8.3,260279,284974,144159,Engineering,20170
+R339,Ajman Refinery,Ras Al Khaimah,RAK Oil,816432,2012,1970,Mixed,2.27,9.61,303145,415880,97405,Administration,8444
+R340,Fujairah Refinery,Fujairah,Gulf Energy,891378,1987,1541,Mixed,19.65,9.13,387533,382553,121290,Engineering,24562
+R341,Al Ain Petro,Sharjah,ADNOC Refining,333975,2000,2446,Offshore,30.03,9.24,126611,150833,56529,Administration,13499
+R342,Umm Al Quwain Refining Co.,Dubai,UAQ Petroleum,750408,1997,1876,Imported,30.84,6.53,286997,296497,166912,Administration,12050
+R343,ADNOC Refining Plant,Ras Al Khaimah,Ajman Petro,211923,1990,1671,Mixed,25.52,9.64,70520,83694,57708,Maintenance,10671
+R344,Dubai Energy Refinery,Sharjah,RAK Oil,690356,1990,1599,Onshore,32.99,6.53,308307,220856,161191,Operations,12755
+R345,Umm Al Quwain Refining Co.,Dubai,Ajman Petro,564223,2015,1436,Imported,6.74,9.8,211343,240970,111909,Maintenance,13055
+R346,Sharjah Petrochem,Umm Al Quwain,UAQ Petroleum,350395,2015,1051,Mixed,7.19,5.22,131762,132703,85929,Administration,21187
+R347,Umm Al Quwain Refining Co.,Abu Dhabi,Gulf Energy,695284,2011,1034,Onshore,13.47,9.51,276155,288949,130178,Administration,9518
+R348,Emirates Fuel Processing,Sharjah,Fujairah Energy,638230,1994,1313,Mixed,30.43,7.18,226417,255084,156728,Quality Control,11613
+R349,Fujairah Refinery,Ras Al Khaimah,Gulf Energy,302840,2001,1938,Onshore,34.43,7.73,111781,139363,51694,Engineering,8780
+R350,Dubai Energy Refinery,Ajman,Sharjah Refining Ltd.,575160,2021,851,Imported,16.54,5.57,192057,289468,93634,Maintenance,14102
+R351,Fujairah Refinery,Dubai,Gulf Energy,575469,2016,1309,Mixed,15.01,8.01,210911,252064,112493,Administration,17987
+R352,Al Ain Petro,Umm Al Quwain,ADNOC Refining,718979,1987,927,Imported,19.89,8.32,296333,315981,106663,Engineering,9057
+R353,Fujairah Refinery,Ras Al Khaimah,Sharjah Refining Ltd.,53318,2022,1299,Onshore,13.04,5.69,23021,23646,6650,Maintenance,15333
+R354,Fujairah Refinery,Sharjah,ADNOC Refining,667066,1991,1504,Offshore,7.06,9.06,239967,282540,144558,Quality Control,11704
+R355,Sharjah Petrochem,Sharjah,Ajman Petro,776076,1983,740,Offshore,31.79,8,370444,278807,126823,Quality Control,19992
+R356,Umm Al Quwain Refining Co.,Umm Al Quwain,Sharjah Refining Ltd.,298574,2006,2144,Onshore,15.74,9.62,87769,130662,80141,Administration,9506
+R357,Ajman Refinery,Umm Al Quwain,UAQ Petroleum,795920,1980,2379,Imported,23.32,6.94,320263,354658,120998,Quality Control,21437
+R358,Fujairah Refinery,Sharjah,ADNOC Refining,67561,1980,408,Imported,11.33,8.57,30512,22946,14101,Administration,24495
+R359,Jebel Ali Refinery,Abu Dhabi,UAE National Oil Co.,203543,1976,1161,Offshore,5.07,7.69,86854,68408,48279,Maintenance,19581
+R360,ADNOC Refining Plant,Umm Al Quwain,ADNOC Refining,738300,2011,1837,Offshore,32.15,6.34,279974,371048,87276,Quality Control,19872
+R361,Fujairah Refinery,Ras Al Khaimah,Emirates Petrochem,486474,1990,2153,Onshore,8.8,6.08,183883,207252,95338,Quality Control,10040
+R362,Emirates Fuel Processing,Ajman,Emirates Petrochem,891230,1996,1571,Imported,8.58,8.15,306958,380875,203396,Maintenance,16256
+R363,Dubai Energy Refinery,Umm Al Quwain,Sharjah Refining Ltd.,392318,1997,453,Mixed,2.25,7.81,156372,165009,70935,Engineering,16434
+R364,Jebel Ali Refinery,Fujairah,ADNOC Refining,70352,1980,1217,Imported,22.78,9.34,24533,31921,13896,Administration,11029
+R365,Jebel Ali Refinery,Abu Dhabi,Emirates Petrochem,358305,2022,551,Offshore,34.27,7.86,164568,147101,46635,Maintenance,12502
+R366,Emirates Fuel Processing,Ras Al Khaimah,Gulf Energy,571590,1977,787,Onshore,5.36,8.89,204083,260744,106762,Administration,11868
+R367,Dubai Energy Refinery,Umm Al Quwain,Fujairah Energy,149819,2014,440,Mixed,32.73,7.82,50771,77427,21620,Engineering,9458
+R368,Sharjah Petrochem,Dubai,UAQ Petroleum,355117,1995,1740,Onshore,15.37,6.91,134086,149795,71235,Maintenance,19219
+R369,Ajman Refinery,Dubai,Sharjah Refining Ltd.,58570,2013,1833,Offshore,14.9,6.42,22495,23971,12102,Maintenance,14363
+R370,Al Ain Petro,Fujairah,Fujairah Energy,597001,1981,2134,Offshore,31.61,5.03,266694,218550,111756,Engineering,8499
+R371,Umm Al Quwain Refining Co.,Dubai,Emirates Petrochem,699855,1976,478,Mixed,5.55,8.11,289638,259609,150607,Quality Control,14925
+R372,Al Ain Petro,Ras Al Khaimah,UAE National Oil Co.,179484,1976,1415,Mixed,33.24,5.92,68130,82839,28514,Operations,23407
+R373,Dubai Energy Refinery,Ajman,Gulf Energy,640256,2017,1851,Mixed,24.88,7.72,255016,247428,137810,Quality Control,15116
+R374,Umm Al Quwain Refining Co.,Sharjah,Sharjah Refining Ltd.,513179,2002,385,Offshore,34.93,6.56,181558,243543,88077,Operations,16143
+R375,Emirates Fuel Processing,Umm Al Quwain,ENOC,477888,2015,1570,Onshore,26.94,6.59,181023,177150,119713,Engineering,23505
+R376,Emirates Fuel Processing,Dubai,RAK Oil,346843,2002,1307,Mixed,12.74,6.65,109103,142202,95537,Engineering,13794
+R377,Emirates Fuel Processing,Fujairah,Emirates Petrochem,891014,1997,800,Onshore,32.27,8.35,362535,373190,155287,Operations,23227
+R378,Emirates Fuel Processing,Sharjah,Sharjah Refining Ltd.,846193,1987,840,Onshore,15.68,7.68,306319,371791,168082,Engineering,9414
+R379,Ruwais Refinery,Ras Al Khaimah,RAK Oil,741610,1975,2105,Imported,14.36,8.21,342582,293936,105090,Engineering,19597
+R380,ADNOC Refining Plant,Fujairah,Emirates Petrochem,549426,2022,992,Imported,24.69,8.06,225229,224798,99397,Administration,13328
+R381,Umm Al Quwain Refining Co.,Sharjah,ENOC,775643,2011,581,Mixed,18.28,5.97,255115,345544,174983,Administration,24690
+R382,Umm Al Quwain Refining Co.,Ras Al Khaimah,UAE National Oil Co.,227825,2004,1995,Offshore,6.64,5.79,73508,105500,48816,Operations,16110
+R383,ADNOC Refining Plant,Ras Al Khaimah,RAK Oil,544536,1995,1908,Mixed,10.73,7.74,228327,195432,120775,Quality Control,18867
+R384,Sharjah Petrochem,Sharjah,ENOC,459248,1995,1900,Imported,24.86,5.51,172092,209458,77696,Maintenance,9028
+R385,Ruwais Refinery,Ajman,Gulf Energy,724592,1989,2424,Imported,3.97,8.25,339196,281217,104177,Quality Control,16202
+R386,Emirates Fuel Processing,Ras Al Khaimah,ENOC,200782,2007,1927,Offshore,10.18,8.1,81757,95554,23470,Engineering,13809
+R387,Jebel Ali Refinery,Sharjah,ENOC,379850,2009,1788,Offshore,19.95,6.49,147252,166619,65978,Engineering,20134
+R388,Al Ain Petro,Abu Dhabi,Emirates Petrochem,148253,1978,1945,Offshore,30.56,6.39,56827,60094,31331,Administration,17273
+R389,ADNOC Refining Plant,Umm Al Quwain,Ajman Petro,272574,1983,1668,Onshore,8.2,5.32,97490,108387,66696,Engineering,13912
+R390,Dubai Energy Refinery,Dubai,UAQ Petroleum,664066,2005,759,Imported,23.87,6.65,210609,271683,181772,Operations,20353
+R391,ADNOC Refining Plant,Sharjah,Ajman Petro,641781,2017,1444,Mixed,12.85,8.87,207686,307059,127035,Administration,9472
+R392,Al Ain Petro,Umm Al Quwain,Gulf Energy,419356,2009,1731,Onshore,9.2,8.74,162806,153470,103079,Maintenance,15986
+R393,Ruwais Refinery,Sharjah,Ajman Petro,127113,1979,1645,Onshore,25.93,6.6,42821,62301,21989,Operations,12605
+R394,Fujairah Refinery,Ras Al Khaimah,Emirates Petrochem,229838,1984,1364,Onshore,23.59,5.81,79918,111662,38257,Engineering,9506
+R395,Ajman Refinery,Fujairah,ADNOC Refining,119775,1980,1549,Offshore,7.74,5.29,48922,55866,14986,Maintenance,23268
+R396,Sharjah Petrochem,Abu Dhabi,ADNOC Refining,667617,1990,1317,Mixed,29.98,8.07,244185,263135,160295,Maintenance,12903
+R397,Ajman Refinery,Sharjah,Fujairah Energy,243004,2001,641,Onshore,5.68,6.24,94662,102821,45519,Maintenance,13803
+R398,Jebel Ali Refinery,Fujairah,Ajman Petro,876026,2007,2301,Mixed,34.41,9.31,254615,475911,145498,Engineering,12053
+R399,Ajman Refinery,Ajman,Gulf Energy,234532,1984,1457,Onshore,2.58,8.61,72475,111903,50153,Quality Control,18472
+R400,Ajman Refinery,Fujairah,RAK Oil,129005,2023,1784,Onshore,19.73,6.02,39097,66065,23842,Quality Control,22963
+R401,Ajman Refinery,Ras Al Khaimah,ADNOC Refining,506592,2015,716,Offshore,8.9,6.09,181042,229301,96248,Maintenance,17465
+R402,Fujairah Refinery,Umm Al Quwain,UAE National Oil Co.,862668,2016,1037,Mixed,2.89,5.22,298053,395098,169516,Quality Control,18683
+R403,Ruwais Refinery,Dubai,Gulf Energy,344315,2004,1084,Offshore,7.32,9.85,132249,156604,55460,Maintenance,11966
+R404,Fujairah Refinery,Ras Al Khaimah,Gulf Energy,881021,1982,1701,Offshore,15.98,8.85,307408,407282,166330,Administration,12785
+R405,Al Ain Petro,Abu Dhabi,Sharjah Refining Ltd.,810489,2015,2009,Mixed,20.06,6.67,324962,359368,126158,Engineering,15248
+R406,Fujairah Refinery,Sharjah,Emirates Petrochem,698130,1980,790,Mixed,8.56,9.35,298302,307024,92803,Operations,22148
+R407,Sharjah Petrochem,Sharjah,RAK Oil,499579,2017,681,Mixed,6.82,9.35,143785,254026,101767,Operations,12739
+R408,Ruwais Refinery,Fujairah,Emirates Petrochem,750580,2012,1344,Mixed,14.92,9.87,244987,360142,145450,Quality Control,17119
+R409,Al Ain Petro,Fujairah,ADNOC Refining,856286,2006,1256,Onshore,33.44,5.2,341537,315473,199275,Maintenance,20788
+R410,Emirates Fuel Processing,Ras Al Khaimah,Gulf Energy,308483,1975,2274,Onshore,11.49,7.32,99131,120896,88454,Engineering,21526
+R411,Ajman Refinery,Umm Al Quwain,ADNOC Refining,307983,1988,2368,Imported,13.93,9.12,88473,139528,79981,Maintenance,14554
+R412,Sharjah Petrochem,Ras Al Khaimah,Gulf Energy,61315,2013,1078,Imported,19.62,8.68,22800,25958,12556,Maintenance,14257
+R413,ADNOC Refining Plant,Ras Al Khaimah,Gulf Energy,621824,2000,684,Onshore,25.38,7.44,248355,282473,90994,Quality Control,13860
+R414,Dubai Energy Refinery,Sharjah,UAQ Petroleum,225145,2023,1130,Onshore,25.48,5.12,88317,83000,53826,Maintenance,18563
+R415,Dubai Energy Refinery,Ajman,ENOC,569013,2022,451,Mixed,12,5.31,188709,294174,86129,Operations,23636
+R416,Emirates Fuel Processing,Dubai,Sharjah Refining Ltd.,148824,2003,1169,Imported,18.23,9.95,50425,69198,29200,Operations,22937
+R417,Jebel Ali Refinery,Umm Al Quwain,Gulf Energy,728124,2009,946,Imported,11.19,9.8,318917,300830,108376,Engineering,14270
+R418,Jebel Ali Refinery,Abu Dhabi,Emirates Petrochem,415365,2014,2144,Imported,8.22,6.87,169557,174157,71650,Engineering,10342
+R419,Ajman Refinery,Sharjah,ENOC,429248,2007,779,Offshore,21.63,7,196638,186233,46375,Quality Control,10014
+R420,Fujairah Refinery,Abu Dhabi,Fujairah Energy,100675,1988,1756,Imported,10.4,7.51,34835,42131,23707,Quality Control,23647
+R421,Ajman Refinery,Umm Al Quwain,Gulf Energy,152927,2020,479,Mixed,6.44,6.14,64052,70187,18687,Administration,24555
+R422,Ajman Refinery,Sharjah,RAK Oil,532702,2001,480,Mixed,31.14,8.91,198472,219536,114693,Operations,12522
+R423,Ruwais Refinery,Ras Al Khaimah,Ajman Petro,699584,1995,454,Onshore,7.3,9.75,234541,332183,132859,Administration,12398
+R424,Sharjah Petrochem,Abu Dhabi,UAE National Oil Co.,864322,1981,1806,Offshore,26.03,5.82,263791,476907,123623,Quality Control,8125
+R425,Ruwais Refinery,Ras Al Khaimah,UAQ Petroleum,868835,1982,912,Imported,22.18,8.64,375394,392499,100941,Maintenance,8357
+R426,Dubai Energy Refinery,Ajman,ENOC,566494,1983,2338,Onshore,24.47,9.5,191330,245920,129243,Operations,8287
+R427,Dubai Energy Refinery,Dubai,ENOC,679903,1999,1982,Mixed,27.12,8.51,187017,335160,157724,Administration,20678
+R428,Sharjah Petrochem,Umm Al Quwain,ADNOC Refining,311056,2019,1689,Offshore,27.17,5.6,92765,180789,37500,Operations,18149
+R429,Ruwais Refinery,Dubai,Ajman Petro,437141,2007,1772,Imported,14.62,5.26,159178,172200,105762,Quality Control,23546
+R430,Ruwais Refinery,Dubai,Emirates Petrochem,109927,1989,513,Onshore,10.58,6.68,39308,46943,23674,Maintenance,15254
+R431,Ruwais Refinery,Abu Dhabi,RAK Oil,560920,2006,1181,Imported,34.97,6.97,233669,188380,138869,Maintenance,22049
+R432,Ajman Refinery,Sharjah,Ajman Petro,348788,2021,1074,Offshore,18.29,7.13,126959,144456,77371,Operations,21324
+R433,Jebel Ali Refinery,Umm Al Quwain,RAK Oil,136093,2014,1753,Mixed,31.2,7.53,52736,66420,16936,Engineering,16056
+R434,Ruwais Refinery,Abu Dhabi,Gulf Energy,267781,2015,1738,Onshore,30.39,7.25,87124,115328,65327,Operations,20294
+R435,Al Ain Petro,Fujairah,Sharjah Refining Ltd.,814092,1983,2125,Offshore,32.96,7.58,280699,362434,170957,Engineering,20484
+R436,ADNOC Refining Plant,Abu Dhabi,ENOC,560982,2000,1014,Offshore,22.03,7.93,229515,209226,122240,Engineering,24957
+R437,Dubai Energy Refinery,Ajman,ENOC,448828,2005,784,Offshore,27.23,6.66,181975,202239,64613,Operations,23808
+R438,Dubai Energy Refinery,Fujairah,ENOC,362672,1977,1885,Onshore,27.67,5.29,124735,165984,71951,Engineering,23812
+R439,ADNOC Refining Plant,Abu Dhabi,Gulf Energy,352200,2002,791,Mixed,11.32,5.45,162713,112726,76760,Quality Control,24855
+R440,ADNOC Refining Plant,Ras Al Khaimah,Fujairah Energy,260568,1992,415,Onshore,22.77,6.39,94144,102015,64407,Administration,23933
+R441,Ajman Refinery,Umm Al Quwain,ADNOC Refining,834737,2020,1039,Onshore,14.29,9.77,224077,406373,204286,Engineering,10800
+R442,ADNOC Refining Plant,Ras Al Khaimah,Sharjah Refining Ltd.,625078,1996,1690,Imported,4.29,6.66,195457,299059,130561,Administration,23103
+R443,Umm Al Quwain Refining Co.,Dubai,Sharjah Refining Ltd.,678282,1995,550,Offshore,2.71,8.16,283325,227629,167326,Operations,11134
+R444,Dubai Energy Refinery,Sharjah,UAE National Oil Co.,584024,1976,2275,Mixed,6.76,7.36,225288,203477,155257,Operations,9634
+R445,Sharjah Petrochem,Umm Al Quwain,Ajman Petro,759780,1987,2170,Mixed,33.26,9.74,240960,302836,215983,Maintenance,24898
+R446,Umm Al Quwain Refining Co.,Dubai,UAQ Petroleum,458249,2007,983,Imported,4.36,8.29,187084,203168,67996,Operations,8286
+R447,Umm Al Quwain Refining Co.,Ajman,Sharjah Refining Ltd.,237672,2014,2012,Imported,29.6,6.67,92054,113782,31834,Administration,8617
+R448,Dubai Energy Refinery,Fujairah,Emirates Petrochem,264973,1998,1217,Mixed,30.01,7.15,98390,112881,53701,Maintenance,21241
+R449,Ajman Refinery,Fujairah,UAE National Oil Co.,297349,2015,864,Imported,17.46,9.7,89699,143325,64323,Engineering,21586
+R450,Dubai Energy Refinery,Abu Dhabi,UAQ Petroleum,408061,1994,869,Mixed,2.74,5.76,150133,160517,97410,Operations,18600
+R451,Al Ain Petro,Ras Al Khaimah,ADNOC Refining,243881,1986,691,Imported,1.72,5.81,91843,109366,42671,Operations,15299
+R452,Sharjah Petrochem,Ajman,Ajman Petro,363070,2021,456,Mixed,17.52,8.41,142464,142120,78484,Administration,14120
+R453,Al Ain Petro,Umm Al Quwain,Ajman Petro,769414,2022,1764,Onshore,22.22,7.77,271583,405226,92604,Administration,16207
+R454,Jebel Ali Refinery,Fujairah,RAK Oil,183121,1982,2017,Mixed,2.62,6.84,58311,93047,31761,Maintenance,15393
+R455,Sharjah Petrochem,Sharjah,UAE National Oil Co.,603535,1996,618,Mixed,26.19,7.37,221856,249542,132136,Operations,14635
+R456,Ruwais Refinery,Abu Dhabi,ADNOC Refining,357645,2010,973,Offshore,12.6,8.72,132945,150622,74077,Engineering,19322
+R457,Al Ain Petro,Ajman,RAK Oil,783195,2000,2136,Imported,15.68,8.23,313899,364841,104454,Engineering,9900
+R458,Al Ain Petro,Dubai,Sharjah Refining Ltd.,190787,2013,2399,Offshore,21.53,9.7,87331,77361,26093,Operations,24197
+R459,Al Ain Petro,Fujairah,RAK Oil,50257,2001,1339,Onshore,33.66,5.73,21615,20374,8267,Administration,17437
+R460,Ruwais Refinery,Umm Al Quwain,Ajman Petro,116291,2003,1449,Onshore,26.79,7.9,44511,57458,14320,Engineering,13418
+R461,Ajman Refinery,Sharjah,Sharjah Refining Ltd.,472809,2009,2010,Imported,8.28,5.32,174207,212936,85664,Quality Control,14833
+R462,Sharjah Petrochem,Sharjah,Ajman Petro,744288,1987,1507,Mixed,10.34,8.02,271392,308401,164494,Engineering,18737
+R463,Al Ain Petro,Dubai,Ajman Petro,256078,2011,1686,Mixed,13.47,8.18,80458,97254,78364,Maintenance,17410
+R464,Emirates Fuel Processing,Abu Dhabi,Fujairah Energy,289861,2019,1519,Offshore,5.36,8.44,109223,121557,59079,Quality Control,9081
+R465,Ajman Refinery,Umm Al Quwain,ADNOC Refining,106826,1979,694,Onshore,9.14,6.31,39607,47405,19812,Engineering,12152
+R466,Umm Al Quwain Refining Co.,Fujairah,ENOC,749671,1983,447,Onshore,7,7.96,271488,316572,161609,Administration,21860
+R467,Dubai Energy Refinery,Ajman,ENOC,440250,1980,1568,Imported,7.06,7.17,206009,146357,87882,Administration,13472
+R468,Jebel Ali Refinery,Sharjah,UAE National Oil Co.,732218,1980,1376,Mixed,5.51,5.18,259105,385519,87593,Maintenance,8134
+R469,Emirates Fuel Processing,Umm Al Quwain,ENOC,567995,2017,586,Offshore,13.77,6.59,253319,220076,94599,Engineering,8599
+R470,Emirates Fuel Processing,Umm Al Quwain,UAQ Petroleum,444786,1981,1136,Imported,17.12,8.38,164406,227500,52878,Quality Control,18495
+R471,Emirates Fuel Processing,Umm Al Quwain,Ajman Petro,777455,2005,1829,Mixed,22.35,7.4,369031,324242,84181,Engineering,22595
+R472,Umm Al Quwain Refining Co.,Ajman,Emirates Petrochem,854914,2021,1304,Mixed,30.51,6.25,324721,332979,197213,Quality Control,19817
+R473,ADNOC Refining Plant,Ajman,Ajman Petro,624918,1997,1422,Imported,20.97,8.47,205132,335873,83911,Maintenance,12666
+R474,Ruwais Refinery,Abu Dhabi,Emirates Petrochem,590752,2018,1300,Offshore,18.09,7.6,224909,289366,76476,Administration,13713
+R475,Ruwais Refinery,Umm Al Quwain,Gulf Energy,874277,1992,1975,Offshore,34.75,7.49,322154,360461,191661,Maintenance,10521
+R476,Sharjah Petrochem,Fujairah,UAQ Petroleum,790610,1989,1353,Mixed,4.83,8.5,259542,370887,160179,Operations,23892
+R477,Fujairah Refinery,Abu Dhabi,ENOC,554301,1998,2384,Imported,23.76,7.35,240750,252124,61426,Administration,20566
+R478,Fujairah Refinery,Sharjah,UAQ Petroleum,624086,1992,327,Onshore,11.9,7.06,257676,286855,79554,Quality Control,19156
+R479,Umm Al Quwain Refining Co.,Dubai,Ajman Petro,384052,2016,2280,Offshore,10.57,5.12,150936,189983,43131,Operations,24799
+R480,Ruwais Refinery,Ras Al Khaimah,UAE National Oil Co.,165008,2008,446,Mixed,2.14,6.97,58677,70039,36290,Operations,22771
+R481,Sharjah Petrochem,Sharjah,Gulf Energy,776877,2017,1772,Onshore,24.92,7.65,244009,426558,106309,Maintenance,17988
+R482,Al Ain Petro,Umm Al Quwain,Emirates Petrochem,623445,1976,1713,Offshore,13.13,6.21,203818,299036,120590,Administration,15726
+R483,Fujairah Refinery,Dubai,Ajman Petro,557268,2015,2258,Mixed,3.65,9.63,182540,294705,80021,Administration,9940
+R484,Ajman Refinery,Abu Dhabi,ENOC,528524,1976,1934,Offshore,21.99,8.85,177225,239931,111367,Operations,15927
+R485,Jebel Ali Refinery,Dubai,UAQ Petroleum,821929,1990,1111,Mixed,8.25,6.16,303325,400752,117850,Operations,9777
+R486,Al Ain Petro,Ras Al Khaimah,Fujairah Energy,454212,2016,2181,Offshore,20.25,5.45,148832,192008,113371,Administration,21505
+R487,Jebel Ali Refinery,Ras Al Khaimah,RAK Oil,748445,2019,1870,Imported,20.11,5.84,248617,406435,93391,Operations,11915
+R488,Dubai Energy Refinery,Ajman,Sharjah Refining Ltd.,73661,1981,856,Offshore,3.77,6.36,30896,25454,17310,Engineering,10264
+R489,Fujairah Refinery,Dubai,Gulf Energy,50409,2017,1678,Imported,10.72,6.03,17209,25794,7405,Engineering,18399
+R490,Dubai Energy Refinery,Ajman,Emirates Petrochem,544975,2008,1469,Mixed,17.96,7.25,204318,229241,111415,Quality Control,20032
+R491,Jebel Ali Refinery,Ajman,Ajman Petro,370644,1986,751,Onshore,21.34,9.7,128011,163122,79509,Engineering,13559
+R492,Fujairah Refinery,Dubai,ADNOC Refining,738542,1990,322,Onshore,24.85,9.46,262975,313315,162251,Administration,13572
+R493,Ruwais Refinery,Umm Al Quwain,UAE National Oil Co.,889570,2010,1885,Onshore,27.06,8.29,288529,484185,116855,Engineering,19377
+R494,Umm Al Quwain Refining Co.,Ajman,Ajman Petro,555686,1996,2428,Offshore,1.99,5.93,186492,247093,122100,Maintenance,8853
+R495,Jebel Ali Refinery,Dubai,Fujairah Energy,259620,2002,2162,Mixed,16.84,5.93,94745,108501,56372,Engineering,18288
+R496,Dubai Energy Refinery,Fujairah,Gulf Energy,540724,2012,2094,Offshore,8.44,6.04,236206,221071,83445,Operations,16223
+R497,ADNOC Refining Plant,Sharjah,Emirates Petrochem,204941,2014,1335,Onshore,11.75,6.16,65164,105450,34326,Maintenance,17415
+R498,Dubai Energy Refinery,Sharjah,ENOC,344595,1997,586,Imported,22.57,6.45,153987,138265,52341,Maintenance,22598
+R499,Sharjah Petrochem,Ras Al Khaimah,Gulf Energy,302138,1977,770,Mixed,8.33,8.46,119299,132807,50031,Maintenance,15650
+R500,Dubai Energy Refinery,Abu Dhabi,UAE National Oil Co.,818038,2000,442,Offshore,15.38,5.17,292922,368197,156918,Operations,22255
